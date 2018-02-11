@@ -1,4 +1,4 @@
-# Selection CTF 2017/18 Write Up
+# BUCSS Selection CTF 2017/18 Write Up
 On 01/02/2018 the Bournemouth University Cyber Security Society ran a capture the flag event for the purpose of selecting members for each of the three society CTF teams. In this article, I will detail and demonstrate the solutions to each of the challenges found during the event. A separate article will be released covering the creation process of each challenge.
 
 Several challenges can be completed in more than one way, while some of the possible solutions are outlined here there may be more that have not been considered.
