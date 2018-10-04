@@ -5,7 +5,7 @@ Several challenges can be completed in more than one way, while some of the poss
 
 ***NOTE:*** While I created all of the challenges for this CTF I have approached this write up as if I were tackling the challenges for the first time, this way I have conducted the usual steps I would normally take when solving challenges whose solution I don't already know.
 
-A copy of this write up can also be found at [lucidunicorn.xyz/2018/02/10/selection-ctf/](https://lucidunicorn.xyz/2018/02/10/selection-ctf/)
+A copy of this write up can also be found at [lucidunicorn.xyz/post/bucss-selection-ctf-write-up/](https://lucidunicorn.xyz/post/bucss-selection-ctf-write-up/)
 
 ## CR001
 This challenge provided the code below and stated that a service on port 3000 would return the flag once it received the correctly hashed string.
