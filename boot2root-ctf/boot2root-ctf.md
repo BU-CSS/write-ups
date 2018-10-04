@@ -3,7 +3,7 @@ This write up details the solutions for the boot2root style CTF run by the Bourn
 
 ***NOTE:*** While I created all of the challenges for this CTF I have approached this write up as if I were tackling the challenges for the first time, this way I have conducted the usual steps I would normally take when solving challenges whose solution I don't already know.
 
-A copy of this write up can also be found at [lucidunicorn.xyz/2018/04/02/bucss-boot2root/](https://lucidunicorn.xyz/2018/04/02/bucss-boot2root/)
+A copy of this write up can also be found at [lucidunicorn.xyz/post/bucss-boot2root/](https://lucidunicorn.xyz/post/bucss-boot2root/)
 
 ## FTP
 I started off with an nmap scan of the target which showed several running services with open ports, one of them being FTP whose banner stated that the user ```ftp_user``` was able to login to the service, without knowing the password however I decided to run hyda against it with the rockyou wordlist, after a few minutes it found the correct password for ```ftp_user```.
